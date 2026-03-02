@@ -1,0 +1,2 @@
+# Abubakar_Idris-Edulumos_Task03-Explanatory_Data_Analysis-Data_Science
+This project explores a simulated IPL dataset using Python, Pandas, Matplotlib, and etc. It focuses on data cleaning, trend analysis, and visualization of team performance, player awards, toss impact, match results, and seasonal patterns. The project demonstrates practical skills in data wrangling, exploratory data analysis, and sports analytics.
